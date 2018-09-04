@@ -4,7 +4,6 @@ var config = require('./config.js');
 var producername = config.producername;
 var proposer = config.proposer;
 var httpEndpoint = config.httpEndpoint;
-//联系
 var fibos = FIBOS({
 	chainId: config.chainId,
 	keyProvider: config.privatekey,

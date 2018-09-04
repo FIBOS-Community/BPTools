@@ -18,7 +18,6 @@ var ctx = fibos.contractSync("eosio.msig");
 console.notice("---------connect to " + httpEndpoint + "----welcome " + producername + "--------");
 choice();
 
-//提案列表
 function approvals() {
 	var a = fibos.getTableRowsSync(true, "eosio.msig", proposer, "approvals");
 	a.rows.forEach(function(d) {

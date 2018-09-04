@@ -4,8 +4,8 @@ module.exports = {
 	// httpEndpoint: "http://api.fibos.rocks",
 	// httpEndpoint: "http://api.foshenzhenbp.com:8888",
 	// httpEndpoint: "",
-	// httpEndpoint: "",
 	producername: '', //你的名称
+	privatekey: '',//你的私钥
 
-	proposer: "", //提案人的名称
+	proposer: "londonbpfib5", //提案人的名称
 };

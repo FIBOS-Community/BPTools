@@ -21,7 +21,6 @@ choice();
 //提案列表
 function approvals() {
 	var a = fibos.getTableRowsSync(true, "eosio.msig", proposer, "approvals");
-	console.log(a)
 	a.rows.forEach(function(d) {
 		console.notice('proposal_name: ', d.proposal_name);
 		console.notice('approve / all : ' + d.provided_approvals.length + "/" + (d.requested_approvals.length + d.provided_approvals.length));

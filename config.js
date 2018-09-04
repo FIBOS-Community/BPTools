@@ -4,5 +4,5 @@ module.exports = {
 	// httpEndpoint: "http://to-rpc.fibos.io:8870/",
 	producername: '', //your name
 	privatekey: '', //  you prvatekey
-	proposer: "", //proposer name
+	proposer: "londonbpfib5" //proposer name
 };

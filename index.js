@@ -2,7 +2,7 @@ var FIBOS = require('fibos.js');
 var config = require('./config.js');
 
 var producername = config.producername;
-var proposer = config.proposer; //提案提出人名字
+var proposer = config.proposer;
 var httpEndpoint = config.httpEndpoint;
 //联系
 var fibos = FIBOS({

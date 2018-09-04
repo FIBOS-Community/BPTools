@@ -1,4 +1,7 @@
 step
+
 	1. install fibos
+
 	2. cd ./
-	3. fibos --install   (install fibos.js or npm install fibos.js) 
+
+	3. fibos --install   (install fibos.js) 

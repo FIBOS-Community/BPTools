@@ -1,4 +1,4 @@
-step
+steps
 
 	1. install fibos
 

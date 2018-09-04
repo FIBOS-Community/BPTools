@@ -1,10 +1,4 @@
-# BPTools
-
-BP maintenance tool develop by fibos
-
------------------------------------------
-
-## Tool List
-
-- Multi-sign client tool
-
+step
+	1. install fibos
+	2. cd ./
+	3. fibos --install   (install fibos.js or npm install fibos.js) 

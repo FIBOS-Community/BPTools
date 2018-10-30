@@ -1,8 +1,8 @@
 steps
 
-	1. install fibos
+	1. curl -s https://fibos.io/download/installer.sh | sh           ----  install fibos
 
-	2. cd ./
+	2. cd propose
 
 	3. fibos --install
 

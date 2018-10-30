@@ -1,6 +1,6 @@
 {
 	"name": "propose",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "propose",
 	"repository": "",
 	"keywords": "",
@@ -8,6 +8,6 @@
 	"license": "ISC",
 	"dependencies": {
 		"ascii-table": "0.0.9",
-		"fibos.js": "0.1.0"
+		"fibos.js": "0.3.1"
 	}
 }

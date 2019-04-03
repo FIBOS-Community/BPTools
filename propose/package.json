@@ -8,6 +8,6 @@
 	"license": "ISC",
 	"dependencies": {
 		"ascii-table": "0.0.9",
-		"fibos.js": "0.3.1"
+		"fibos.js": "0.3.6"
 	}
 }

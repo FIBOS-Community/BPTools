@@ -1,0 +1,12 @@
+{
+	"name": "producter",
+	"version": "1.0.0",
+	"description": "producter tools",
+	"repository": "",
+	"keywords": "",
+	"author": "lc",
+	"license": "ISC",
+	"dependencies": {
+		"fibos.js": "^0.3.6"
+	}
+}
